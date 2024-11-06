@@ -15,6 +15,4 @@ elif month==2 :
         days = 28
     
 
-## February 28 days 
-
 print(f'Month {month} has {days} days')
